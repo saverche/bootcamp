@@ -1,7 +1,9 @@
 Title
 Decision support system in a federated environment.
 Author
+Ilya Saverchenko
 Abstract
+Bla bla bla bla-bla bla.
 Introduction
 Conclusion
 References
