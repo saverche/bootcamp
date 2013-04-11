@@ -1,0 +1,2 @@
+Fagan (1976) Design and code inspection to reduce errors in program development.
+Cohen (2006) Best kept secrets of peer code review.
